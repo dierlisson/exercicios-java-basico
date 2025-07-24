@@ -43,7 +43,7 @@ Este repositório contém uma atividade prática desenvolvida em Java, com o obj
 
 ## 🧑‍💻 Autor
 
-Atividade desenvolvida como exercício proposto pelo professor  de prática em entrada e processamento de dados com Java.
+Atividade desenvolvida como exercício proposto pelo professor da DIO no bootcamp GFT Start #7 - Java no curso Fundamentos da Linguagem de Programação Java.
 
 ---
 
